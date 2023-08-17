@@ -4,7 +4,38 @@
 }
 *{
     box-sizing: border-box;
+    margin: 0;
 }
 body{
     font-family: Shabnam;
+    background-color: #fafafa;
+}
+.container{
+    max-width: 1216px;
+    margin-top:56px;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+}
+.section-header {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.container2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.menu-icon{
+    width: 17px;
+}
+.text{
+    font-weight: bold;
+    padding-right: 3px;
+}
+.text2{
+    color:#1976D2 ;
+    font-size: 14px;
 }
