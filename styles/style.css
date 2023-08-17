@@ -1,0 +1,10 @@
+@font-face{
+    font-family:Shabnam ;
+    src: url("../fonts/Shabnam-FD.woff2") format("woff2");
+}
+*{
+    box-sizing: border-box;
+}
+body{
+    font-family: Shabnam;
+}
