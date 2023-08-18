@@ -11,7 +11,7 @@ body {
     background-color: #fafafa;
 }
 .container {
-    max-width: 1216px;
+    max-width: 1000px;
     margin-top:56px;   
     margin-right: auto;
     margin-left: auto;
@@ -22,7 +22,6 @@ body {
   width: 100%;
   display: flex;
   justify-content: space-between;
-  align-items: center;
 }
 .container2 {
     display: flex;
@@ -42,10 +41,12 @@ body {
 }
 .product-box {
     display: flex;
+    gap: 25px;
+   
 }
 .product-card {
     margin-top: 25px;   
-    width: 250px;
+    width: 100%;
     background-color: white;
     color: black;
     display: flex;
