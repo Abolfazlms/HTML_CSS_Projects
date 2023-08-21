@@ -1,5 +1,5 @@
 # HTML_CSS_Projects
 this repository build for html and css  simple product box project.<br>
 
-## project sample
-![alt text](https://github.com/Abolfazlms/HTML_CSS_Projects/simple_product_box/sample.jpg)
+## 1-simple product box
+![alt text](https://github.com/Abolfazlms/HTML_CSS_Projects/blob/main/simple_product_box/sample.jpg)
